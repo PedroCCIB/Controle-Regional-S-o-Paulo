@@ -1,0 +1,159 @@
+[
+ {
+  "id": "ag-01",
+  "tipo": "reuniao",
+  "empresaNome": "Emdoc",
+  "empresaId": "55446952627",
+  "data": "2026-09-21",
+  "horario": "15:00",
+  "titulo": "Kick-off CCIB: Emdoc",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-02",
+  "tipo": "reuniao",
+  "empresaNome": "Thomriss",
+  "empresaId": "57411403047",
+  "data": "2026-09-24",
+  "horario": "14:00",
+  "titulo": "Kick-off Thomriss & CCIB",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-03",
+  "tipo": "reuniao",
+  "empresaNome": "Invest Rondônia",
+  "empresaId": null,
+  "data": "2026-09-25",
+  "horario": "09:00",
+  "titulo": "Invest Rondônia",
+  "local": "Av. Paulista, 726, cj 18, sala 07 (presencial)",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-04",
+  "tipo": "reuniao",
+  "empresaNome": "Nexofour",
+  "empresaId": "58829147445",
+  "data": "2026-10-01",
+  "horario": "16:00",
+  "titulo": "CCIB & Nexofour",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-05",
+  "tipo": "reuniao",
+  "empresaNome": "Demarest",
+  "empresaId": "39214141452",
+  "data": "2026-10-13",
+  "horario": "10:00",
+  "titulo": "CCIB & Demarest",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-06",
+  "tipo": "reuniao",
+  "empresaNome": "Xelencure Export",
+  "empresaId": null,
+  "data": "2026-10-14",
+  "horario": "09:00",
+  "titulo": "Xelencure Export & IBCC",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-07",
+  "tipo": "reuniao",
+  "empresaNome": "Invest Rondônia",
+  "empresaId": null,
+  "data": "2026-10-14",
+  "horario": "14:00",
+  "titulo": "Invest Rondônia & CCIB",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-08",
+  "tipo": "reuniao",
+  "empresaNome": "Thomriss",
+  "empresaId": "57411403047",
+  "data": "2026-10-15",
+  "horario": "15:00",
+  "titulo": "CCIB & Thomriss: Atualização",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-09",
+  "tipo": "reuniao",
+  "empresaNome": "Promaflex (Brasil)",
+  "empresaId": null,
+  "data": "2026-10-21",
+  "horario": "11:00",
+  "titulo": "Promaflex (Brasil) e CCIB",
+  "local": "Av. Paulista, 726, cj 18, sala 07",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-10",
+  "tipo": "reuniao",
+  "empresaNome": "Grupo Globo",
+  "empresaId": null,
+  "data": "2026-10-21",
+  "horario": "17:00",
+  "titulo": "Grupo Globo & CCIB",
+  "local": "Av. Paulista, 726, 18º andar, sala 07",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-11",
+  "tipo": "reuniao",
+  "empresaNome": "OCQ",
+  "empresaId": "57248880772",
+  "data": "2026-10-22",
+  "horario": "11:00",
+  "titulo": "Kick-Off CCIB: OCQ",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-12",
+  "tipo": "reuniao",
+  "empresaNome": "Impacto Regulatório",
+  "empresaId": null,
+  "data": "2026-10-26",
+  "horario": "11:00",
+  "titulo": "CCIB & Impacto Regulatório",
+  "local": "Teams",
+  "responsavel": "rafaela"
+ },
+ {
+  "id": "ag-13",
+  "tipo": "reuniao",
+  "empresaNome": "FECAP",
+  "empresaId": null,
+  "data": "2026-10-26",
+  "horario": "19:00",
+  "titulo": "Apresentação Fecap",
+  "local": "FECAP",
+  "responsavel": "rafaela",
+  "horarioFim": "20:30"
+ },
+ {
+  "id": "ag-14",
+  "tipo": "evento externo",
+  "empresaNome": "Brazil Windpower",
+  "empresaId": null,
+  "data": "2026-10-27",
+  "horario": "10:00",
+  "titulo": "Feira Brazil Windpower",
+  "local": "São Paulo Expo",
+  "responsavel": "rafaela",
+  "dataFim": "2026-10-29",
+  "horarioFim": "20:00"
+ }
+]

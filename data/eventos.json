@@ -1,0 +1,132 @@
+[
+ {
+  "id": "evt-2026-05-22-inova-india-brasil",
+  "nome": "Inova Índia-Brasil",
+  "data": "2026-05-22",
+  "horario": "13h às 17h30",
+  "local": "Inova USP – Distrito de Inovação de São Paulo (Av. Prof. Lúcio Martins Rodrigues, 370 – Butantã, São Paulo/SP)",
+  "formato": "",
+  "parceiros": "Realização: CCIB, em parceria com a SCTI, o Inova USP e o Distrito de Inovação de São Paulo",
+  "temas": "Inteligência artificial, transformação tecnológica e inovação industrial; negócios e investimentos Brasil–Índia",
+  "painel": "Abertura institucional: André Aquino (Distrito de Inovação USP / SCTI); André Fleury (Inova USP); Ângela Gandra (Secretaria Municipal de Relações Internacionais); Choudhary Vishal (Innovation Division, Prime Minister’s Office of India); Samo Tosatti (Governo do Estado de São Paulo); Leonardo Ananda (CCIB).\nPainel 1 – IA, Tecnologia e Inovação Industrial: Alexandre Caldeira (Nanum); Fabiano Funari (HCLTech); Marco Túlio Silva Alves (TCS); Alexandre D’Aquino (Tech Mahindra); Ritesh Sharma (NANOFERT). Moderação: Pedro Rebelo (SP Negócios).\nPainel 2 – Negócios e Investimentos Brasil–Índia: Eunice Lima (Novelis); Puneet Gautam (Indorama Brasil); Vagnaldo Teles de Carvalho (Embraer). Moderação: Pedro Pignatari (InvestSP).\nParticipação especial: Embaixador Kenneth Félix Haczynski da Nóbrega, em mensagem de vídeo gravada para o evento.",
+  "empresasParticipantes": "TCS, HCLTech, Tech Mahindra, Nanum, NANOFERT, Embraer, Novelis, Indorama Brasil",
+  "numParticipantes": "115 presenciais (público), além de palestrantes, painelistas, moderadores, representantes institucionais e equipe organizadora",
+  "resultado": "1. Articulação institucional: reuniu Governo do Estado de SP, Prefeitura de SP, SCTI, Distrito de Inovação, Inova USP, SP Negócios, InvestSP, empresas brasileiras e indianas e a CCIB.\n2. Continuidade da agenda com a SP Negócios: levou ao evento “Doing Business in São Paulo: India–Brazil Bridge” (24/09/2026).\n3. Conexões empresariais: ampliação da rede de contatos entre empresas, instituições e ecossistemas de inovação e tecnologia dos dois países.",
+  "observacoes": "Objetivo: aproximar os ecossistemas de inovação, tecnologia e negócios do Brasil e da Índia, conectando empresas, investidores, instituições, academia e poder público. Relatório enviado à SCTI (A/C Sra. Maria Augusta) em 30/09/2026."
+ },
+ {
+  "id": "evt-2026-09-24-doing-business-sp",
+  "nome": "Doing Business in São Paulo: India–Brazil Bridge",
+  "data": "2026-09-24",
+  "horario": "8h30 às 11h10",
+  "local": "Sede da SP Negócios",
+  "formato": "Híbrido, em inglês",
+  "parceiros": "SP Negócios (em conjunto)",
+  "temas": "Transição Energética e Transformação Digital",
+  "painel": "J.P. Morgan (moderação), iCS, TCS e Tech Mahindra, com apresentação da ESC",
+  "empresasParticipantes": "J.P. Morgan, iCS, TCS, Tech Mahindra, ESC",
+  "numParticipantes": "",
+  "resultado": "",
+  "observacoes": ""
+ },
+ {
+  "id": "evt-2026-10-08-energia-inteligente",
+  "nome": "Encontro Brasil–Índia sobre Energia Inteligente",
+  "data": "2026-10-08",
+  "horario": "10h às 13h",
+  "local": "Centro de Estudos (Alameda Itu, 852)",
+  "formato": "",
+  "parceiros": "Organização: CCIB, ISGF e LATAM SGF",
+  "temas": "Energia Inteligente / Smart Grid",
+  "painel": "Delegação indiana do 18º Fórum Latino-Americano de Smart Grid",
+  "empresasParticipantes": "",
+  "numParticipantes": "",
+  "resultado": "",
+  "observacoes": "",
+  "tag": "Sem custo para a Câmara"
+ },
+ {
+  "id": "evt-2026-11-11-ccib-abia",
+  "nome": "Doing Business India–Brazil: Food Industry Edition (CCIB × ABIA)",
+  "data": "2026-11-11",
+  "horario": "8h30 (welcome coffee) · 9h00 às 11h00",
+  "local": "Sede da ABIA — Rua Butantã, 336, 3º andar, Pinheiros, São Paulo/SP",
+  "formato": "Híbrido (presencial e online), em inglês",
+  "parceiros": "ABIA (Associação Brasileira da Indústria de Alimentos)",
+  "temas": "Acesso ao mercado indiano de alimentos, visão dos importadores, apoio da ApexBrasil, experiência prática de exportação",
+  "painel": "Painel de especialistas, visão de mercado e oportunidades de negócios",
+  "empresasParticipantes": "",
+  "numParticipantes": "",
+  "resultado": "",
+  "observacoes": "Número de participantes, empresas presentes e resultados: a preencher.",
+  "tag": "Realizado",
+  "dataPrevista": null,
+  "objetivo": "Fortalecer parcerias e abrir oportunidades na indústria de alimentos entre Brasil e Índia.",
+  "descricao": "Evento híbrido realizado na sede da ABIA, com palestrantes presenciais e virtuais. Encerrou com o lançamento da Missão Empresarial CCIB à Índia.",
+  "flyer": "assets/flyer-abia.jpg",
+  "programacao": [
+   {
+    "h": "08h30 – 09h00",
+    "t": "Credenciamento e welcome coffee (apenas presenciais)"
+   },
+   {
+    "h": "09h00 – 09h10",
+    "t": "Abertura institucional (início do evento híbrido)",
+    "s": "Cleber Sabonaro, Gerente de Inteligência Competitiva da ABIA · Pedro Oliveira, Head CCIB SP"
+   },
+   {
+    "h": "09h10 – 09h30",
+    "t": "Índia: oportunidades comerciais e acesso ao mercado de alimentos",
+    "s": "Roberto Carlos Razera Papa, Adido Agrícola do Brasil em Nova Délhi (MAPA) · virtual"
+   },
+   {
+    "h": "09h30 – 09h50",
+    "t": "O mercado indiano na visão dos importadores: demanda e canais de distribuição",
+    "s": "Amit Lohani, Forum of Indian Food Importers (FIFI) · virtual"
+   },
+   {
+    "h": "09h50 – 10h00",
+    "t": "Perguntas e respostas"
+   },
+   {
+    "h": "10h00 – 10h20",
+    "t": "ApexBrasil na Índia: instrumentos de apoio e promoção comercial",
+    "s": "Ângelo de Queiroz Mauricio, Gerente-Geral do Escritório da ApexBrasil em Nova Délhi · presencial"
+   },
+   {
+    "h": "10h20 – 10h40",
+    "t": "Brasil–Índia na prática: a experiência da Amazonika Mundi",
+    "s": "Bruno Rosolem, Diretor Comercial da Amazonika Mundi · virtual"
+   },
+   {
+    "h": "10h40 – 10h50",
+    "t": "Perguntas e respostas"
+   },
+   {
+    "h": "10h50 – 11h00",
+    "t": "Encerramento e lançamento da Missão Empresarial CCIB à Índia"
+   },
+   {
+    "h": "11h00",
+    "t": "Foto oficial"
+   }
+  ]
+ },
+ {
+  "id": "evt-2026-12-10-fni",
+  "nome": "Seminário FNI — Fazendo Negócios com a Índia (Edição São Paulo)",
+  "data": "2026-12-10",
+  "horario": "8h00 às 12h00",
+  "local": "Fundação Dom Cabral, São Paulo/SP",
+  "formato": "",
+  "parceiros": "",
+  "temas": "",
+  "painel": "",
+  "empresasParticipantes": "",
+  "numParticipantes": "",
+  "resultado": "",
+  "observacoes": "Save the date divulgado: \"Rumo aos 80 anos das relações diplomáticas Índia–Brasil\". Programação, palestrantes e patrocínios em construção.",
+  "tag": "Em definição",
+  "flyer": "assets/flyer-fni.jpg"
+ }
+]
